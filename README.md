@@ -1,5 +1,3 @@
-# A-stock-market-sentiment-agent-simulator-based-on-LLM-and-BDI-frameworks
-This project aims creating an Experimental operation platform system The project is an intuitive market simulator designed to make behavioral finance visible and interactive.
 # Stock Market Sentiment Agent Simulator
 
 A LLM-based stock market sentiment simulator that demonstrates how three different types of investors (optimistic, pessimistic, and calm) respond to news events and influence stock prices.
